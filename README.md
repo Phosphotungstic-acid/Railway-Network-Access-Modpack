@@ -4,6 +4,8 @@ If you would like to download this modpack, please set off for modpack's modrint
 # Download
 ## Different editions
 ### MTR edition
+- Architect Edition:
+  [MTR Railway Network Access: Architect Edition](https://modrinth.com/modpack/railway-network-access-architect)
 - Standard Edition:
   [MTR Railway Network Access: Standard Edition](https://modrinth.com/modpack/railway-network-access)
 - Lite Edition:
@@ -12,9 +14,6 @@ If you would like to download this modpack, please set off for modpack's modrint
   [MTR Railway Network Access: For Mobile](https://modrinth.com/modpack/rna-mobile)
 ### IR(Immersive Railroading) edition
 - [IR Railway Network Access](https://modrinth.com/modpack/railway-network-access-ir)
-### Create&KuaYue edition
-- For Creative Mode:
-  [Create&KuaYue Railway Network Access (for Creative Mode)](https://modrinth.com/modpack/railway-network-access-create)
   
 <details>
 <summary>中文简介</summary>
